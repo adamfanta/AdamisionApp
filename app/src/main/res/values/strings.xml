@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AdamisionApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact Me</string>
+    <string name="about">About Me</string>
+    <string name="friends">Friend List</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim">NIM</string>
+    <string name="_10116295">10116295</string>
+    <string name="kelas">Nama</string>
+    <string name="if_7">Adam Aris Rizaldy</string>
+
+
+
+    <string name="telp">08996165762</string>
+    <string name="email">adamrizaldy09@gmail.com</string>
+    <string name="ig">adamfanta</string>
+
+
+
+    <string name="about_aplikasi">
+        Nama Aplikasi yang saya buat adalah AdaMisionApp
+        \nYang terdiri dari profile dan biodata saya pribadi serta teman teman saya
+        \nNama saya sendiri adalah Adam Aris Rizaldy.
+        \nSaya Lahir pada tanggal 9 Desember 1997.
+        \nSaya Anak pertama dari dua bersaudara.
+        \nSaya tinggal di Bandung yang beralamat di jalan kawali 5 no 16 Antapani.
+    </string>
+    <string name="aboutme">
+        Aplikasi ini dibuat untuk memenuhi tugas Aplikasi Komputasi Bergerak.
+    </string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="teleponan">Telepon</string>
+    <string name="tv_email">Email</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="delete">Delete</string>
+    <string name="email_text">Email</string>
+    <string name="telepon">Telepon</string>
+
+</resources>
